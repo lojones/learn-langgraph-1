@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "learn-langgraph"
+version = "0.1.0"
+description = ""
+authors = ["Login Jones <login.jones@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+langgraph = "^0.2.45"
+langsmith = "^0.1.142"
+langchain-anthropic = "^0.2.4"
+typing-extensions = "^4.12.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
