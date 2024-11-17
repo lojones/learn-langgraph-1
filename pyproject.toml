@@ -12,6 +12,7 @@ langsmith = "^0.1.142"
 langchain-anthropic = "^0.2.4"
 typing-extensions = "^4.12.2"
 ipython = "^8.29.0"
+ipykernel = "^6.29.5"
 
 
 [build-system]
